@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": false,
+    "lib": ["es2020", "dom"],
+    "module": "commonjs"
+  }
+}
